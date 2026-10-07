@@ -80,7 +80,7 @@ useEffect(()=>{
   return(
     <> 
     {/* product sec  */}
-    <h1 className=" p-6 text-center text-4xl font-bold font-sans text-amber-900 ">Cards </h1>
+    <h1 className=" p-6 text-center text-4xl font-bold animate-ping font-sans text-amber-900 ">Cards </h1>
     <h1 className=" p-6 text-center text-3xl font-semibold font-sans text-amber-800 ">Data Comes From Backend Using APi's </h1>
      
     <section>
