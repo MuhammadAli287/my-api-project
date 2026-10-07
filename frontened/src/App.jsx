@@ -80,6 +80,8 @@ useEffect(()=>{
   return(
     <> 
     {/* product sec  */}
+    <h1 className=" p-6 text-center text-4xl font-bold font-sans text-amber-900 ">Cards </h1>
+  
     <section>
       <h1 className=" p-6 text-center text-3xl font-bold font-sans ">Product Card</h1>
   
