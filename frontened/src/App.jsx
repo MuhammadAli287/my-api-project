@@ -106,6 +106,8 @@ useEffect(()=>{
  {/* users section    */}
 <section>
   <h1 className=" p-6 text-center text-3xl font-bold ">User Card</h1>
+   <h1 className=" p-6 text-center text-2xl font-bold ">Second</h1>
+  
   
      <div className="p-6 rounded-lg grid gap-4 md:grid-cols-3 " >
   {user.map((user)=>(
