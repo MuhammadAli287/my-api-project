@@ -86,7 +86,7 @@ useEffect(()=>{
     <section>
       <h1 className=" p-6 text-center text-3xl font-bold font-sans ">Product Card</h1>
   <h1 className=" p-6 text-center text-2xl font-bold font-sans ">First</h1>
-  <h1 className=" p-6 text-center font-bold font-sans ">All Cards Display</h1>
+  <h1 className=" p-6 text-center font-bold font-sans ">All Cards Display be</h1>
 
       <div className="p-6 rounded-lg grid gap-4 md:grid-cols-3 ">
    {products.map((product)=>(
