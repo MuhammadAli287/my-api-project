@@ -108,7 +108,7 @@ function App() {
       <section>
         <h1 className=" p-6 text-center text-3xl font-bold ">User Card</h1>
         <h1 className=" p-6 text-center text-2xl font-bold ">Second</h1>
- <h1 className=" p-6 text-center font-bold font-sans ">All Cards displa </h1>
+ <h1 className=" p-6 text-center font-bold font-sans ">All Cards displays </h1>
 
 
         <div className="p-6 rounded-lg grid gap-4 md:grid-cols-3 " >
